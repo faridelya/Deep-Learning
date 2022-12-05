@@ -5,6 +5,14 @@ This directory contain all about docker
  > Don’t blindly install latest tensorflow/pytorch library from PyPi. It is absolutely incorrect that any version of this both package will work with any version of CUDA, cuDNN. In fact, the combination of the latest version of both, tensorflow/pytorch with CUDA/cuDNN may not be compatible. Always test the combination in a development environment first
  
  > Docker hub of Nvidia has a lot of images, so understanding their tags and selecting the correct image is the most important building block. The description from official Nvidia docker hub is,
+
+> I nvidia/cuda docker-hub:
+# > Overview of Images
+Three flavors of images are provided:
+
+base: Includes the CUDA runtime (cudart)
+runtime: Builds on the base and includes the CUDA math libraries, and NCCL. A runtime image that also includes cuDNN is available.
+devel: Builds on the runtime and includes headers, development tools for building CUDA images. These images are particularly useful for multi-stage builds.
  
 1. [A complete guide to building a Docker Image serving a Machine learning system in Production](https://towardsdatascience.com/a-complete-guide-to-building-a-docker-image-serving-a-machine-learning-system-in-production-d8b5b0533bde)
 
