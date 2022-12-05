@@ -6,8 +6,8 @@ This directory contain all about docker
  
  > Docker hub of Nvidia has a lot of images, so understanding their tags and selecting the correct image is the most important building block. The description from official Nvidia docker hub is,
 
-> I nvidia/cuda docker-hub:
-# > Overview of Images
+# In nvidia/cuda docker-hub:
+### Overview of Images
 Three flavors of images are provided:
 
 base: Includes the CUDA runtime (cudart)
