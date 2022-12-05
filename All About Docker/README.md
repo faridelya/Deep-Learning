@@ -5,3 +5,4 @@ This directory contain all about docker
 > To use docker container with GPu you have to install NVIDIA CONTAINER TOOLKIT.
  
 2. [NVIDIA CONTAINER TOOLKIT](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+3. [Enabling GPU access with Compose](https://docs.docker.com/compose/gpu-support/)
