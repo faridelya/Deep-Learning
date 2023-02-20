@@ -5,10 +5,15 @@ The repository contain different use case of model training in Tensorflow and hu
 
 |      Use Case          |Model Name       |Jupyter Notebook    | Framework   |     Helping Articles |
                   
-|:----------|:-------:|:-------:| :------: |:------: |
+|:----------|:-------:|:-----------:| :------: |:------: |
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |    a            |      a    |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |      a          |      a    |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|      a         |       a    |
  
 
 
+|      Use Case          |Model Name                          |Jupyter Notebook    | Framework |                    
+|:----------------|:-------------------------------:|:-----------------------------:| :----------------: |
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |                             |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |                                |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|  
