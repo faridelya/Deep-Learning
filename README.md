@@ -9,6 +9,6 @@ The repository contain different use case of model training in Tensorflow and hu
 
 |      Use Case          |Model Name                          |Jupyter Notebook    | Framework | Helpind Articles |                    
 |:----------------|:-------------------------------:|:-----------------------------:| :----------------: |----------------: |
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |                             |               |
+|Autocomplete| N-Grams          | [Colab](https://colab.research.google.com/github/faridelya/Deep-Learning/blob/main/Notebooks/Autocomplete_model_from_NLP_specialization.ipynb)  |  Tensorflow   |        NLP Specialization task of DeepLearnig       |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |                                |         |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|                     |                    |
